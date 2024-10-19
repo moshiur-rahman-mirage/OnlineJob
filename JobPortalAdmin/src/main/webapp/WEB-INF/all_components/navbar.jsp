@@ -10,7 +10,7 @@
                 <a class="nav-link" href="add_job.jsp"> <i class="fa fa-plus-circle"></i> Post Job</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"><i class="fa fa-eye"></i> View Job</a>
+                <a class="nav-link" href="view_jobs.jsp"><i class="fa fa-eye"></i> View Job</a>
             </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">

@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7784ee3-4bfa-4791-b51f-aa234cc22a47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/add_job.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/img/admin-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moshiur/jobportal/controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moshiur/jobportal/entity/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/moshiur/jobportal/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dbscript.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view_jobs.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/all_components/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/all_components/navbar.jsp" afterDir="false" />
     </list>
@@ -29,6 +31,7 @@
       <list>
         <option value="CSS File" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -193,7 +196,7 @@
       <workItem from="1729314078199" duration="1785000" />
       <workItem from="1729315877089" duration="6805000" />
       <workItem from="1729332074752" duration="344000" />
-      <workItem from="1729332441974" duration="1070000" />
+      <workItem from="1729332441974" duration="4084000" />
     </task>
     <servers />
   </component>
