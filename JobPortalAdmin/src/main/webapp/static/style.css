@@ -1,0 +1,26 @@
+.bg-custom{
+    background: #283593 !important;
+}
+
+.navbar{
+    height:10vh;
+}
+.footer{
+    height:10vh;
+}
+
+.navbar .nav-item .nav-link{
+    font-size: 20px;
+    color:white;
+
+}
+
+.navbar .nav-item:hover .nav-link{
+    background: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.loginform{
+    height: 80vh;
+}
