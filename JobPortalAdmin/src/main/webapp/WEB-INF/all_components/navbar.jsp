@@ -7,7 +7,7 @@
                 <a class="nav-link" href="index.jsp">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"> <i class="fa fa-plus-circle"></i> Post Job</a>
+                <a class="nav-link" href="add_job.jsp"> <i class="fa fa-plus-circle"></i> Post Job</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#"><i class="fa fa-eye"></i> View Job</a>
