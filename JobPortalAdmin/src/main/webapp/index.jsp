@@ -1,4 +1,5 @@
-<%--
+<%@ page import="java.sql.Connection" %>
+<%@ page import="com.moshiur.jobportal.db.DBConnect" %><%--
   Created by IntelliJ IDEA.
   User: moshiur.mirage
   Date: 10/19/2024
@@ -22,6 +23,10 @@
 </head>
 <body>
 <%@include file="WEB-INF/all_components/navbar.jsp"%>
+<%
+    Connection con= DBConnect.getConnection();
+    out.println(con);
+%>
     <div class="container-fluid back-img">
             <div class="text-center">
                 <h1 class="text-white p-4">
